@@ -57,7 +57,7 @@ The map also includes historical Global Opportunity Index data, giving users the
 
 <H2>Interactive Map</H2> 
  
-  <iframe src="https://public.tableau.com/app/profile/maggie.switek/viz/TableauMap-Test/Map-Dash?:showVizHome=no&:embed=true" width="100%" height="650" frameborder="0"></iframe>
+  <iframe src="https://public.tableau.com/views/TableauMap-Test/Map-Dash?:showVizHome=no&:embed=true" width="100%" height="650" frameborder="0"></iframe>
   
  <Br>
 
