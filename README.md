@@ -61,7 +61,7 @@ The map also includes historical Global Opportunity Index data, giving users the
   
  <Br>
   
-    <H2>Rankings Distributions</H2> 
+  <H2>Rankings Distributions</H2> 
    
   <iframe src="https://public.tableau.com/views/Tableaudots-Test/Categ-BoxPlots?:showVizHome=no&:embed=true"  width="100%" height="650" frameborder="0"></iframe>
   <Br>
