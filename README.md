@@ -67,8 +67,8 @@ The map also includes historical Global Opportunity Index data, giving users the
    
   <H2>Rankings Distributions</H2> 
    
-  <iframe src="https://public.tableau.com/views/TableauMap-RanksGOIonline/DotBox-Dash1?:showVizHome=no&:embed=true"  width="100%" height="650" frameborder="0"></iframe>
-   
+  <iframe src="https://public.tableau.com/views/Tableaudots-Test/Categ-BoxPlots?:showVizHome=no&:embed=true"  width="100%" height="650" frameborder="0"></iframe>
+  
    
 <H2>Related Work  </H2>
 -<a href="https://milkeninstitute.org/reports/latin-america-global-opportunity-index" target="_blank"> Global Opportunity Index 2021: Focus on Latin America </a> <br>
