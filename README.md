@@ -49,6 +49,8 @@ The interactive map below gives users the ability to compare how a country perfo
 
 The map also includes historical Global Opportunity Index data, giving users the ability to track a country/region’s performance, starting 2017. While the variables have changed over time to keep up with the expectations of the investment community, the underlying purpose of the ranking has remained the same.  
 
+The dot plots below the map provides users information on the distribution of ranking by countries' income level with the ability to highlight specific regions and countries. The boxes in the dot plots represent the confidence intervals for the distribution of ranking. Finally, the heat maps provide information on the 14 sub-categories of the GOI, with countries that rank first by each sub-category highlighted in dark green in the top left corner and countries that rank last highlighted in yellow in the bottom right corner of the heatmap.
+
 <a href="https://milkeninstitute.org/sites/default/files/reports-pdf/goi-white%20paper.pdf" target="_blank"> Link to the list of the variables. </a><br>
 <a href="https://claudelopez.com/ifm-team-mi/" target="_blank"> Link to the GOI reports and related work. </a>
 
