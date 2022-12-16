@@ -35,7 +35,7 @@ alt="Web Analytics"></a></div></noscript>
 <H2><b>Global Opportunity Index -- GOI</b></H2>  <Hr>
 
 
-The Global Opportunity Index measures a country's attractiveness to international investors using a combination of economic, financial, institutional, and regulatory factors. These factors are divided into the following 5 categories and 14 sub-categories: 
+The Global Opportunity Index measures a country's attractiveness to international investors using a combination of economic, financial, institutional, and regulatory factors. These factors are divided into 5 categories and 14 sub-categories. To see the variables included in each cateogry, hover over the 14 sub-categories displayed below. 
  <Br>
    
   <iframe src="https://public.tableau.com/views/CatSubcat-Sunburst-test/Dashboard1?:showVizHome=no&:embed=true"  width="100%" height="650" frameborder="0"></iframe>
